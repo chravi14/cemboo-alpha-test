@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  background: url("./images/Rectangle\ 11654.png"), url("images/Background.png"),
+    radial-gradient(50% 50% at 50% 50%, rgba(17, 18, 21) 0%, #111215 100%);
+  background-blend-mode: darken, screen;
+  background-size: cover;
+  background-position: center;
+  background-origin: border-box;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+
+.text-content {
+  color: white;
+  font-family: "Open Sans";
+}

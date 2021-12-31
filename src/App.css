@@ -1,5 +1,19 @@
 .App {
   text-align: center;
+  height: 100vh;
+}
+
+.footer {
+  background: linear-gradient(
+      0deg,
+      rgba(12, 4, 30, 0.85),
+      rgba(12, 4, 30, 0.85)
+    ),
+    #b7f84d;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App-logo {
